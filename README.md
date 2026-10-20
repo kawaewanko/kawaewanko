@@ -15,7 +15,7 @@
 [![Website](https://img.shields.io/badge/Website-kawaewanko.pages.dev-F4A259?style=flat-square&logo=googlechrome&logoColor=white)](https://kawaewanko.pages.dev/)
 [![X](https://img.shields.io/badge/X-@xx__mabu__xx-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/xx_mabu_xx)
 [![Location](https://img.shields.io/badge/Location-Takasaki%2C%20Gunma-F4A259?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/kawaewanko)
-[![Visitors](https://komarev.com/ghpvc/?username=kawaewanko&style=flat-square&color=F4A259&label=visitors)](https://github.com/kawaewanko)
+[![Profile views](https://komarev.com/ghpvc/?username=kawaewanko&label=Profile%20views&color=F4A259&style=flat-square)](https://github.com/kawaewanko)
 
 </div>
 
@@ -74,7 +74,7 @@
 <br><br>
 
 <a href="https://github.com/kawaewanko">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kawaewanko&bg_color=ffffff&color=805B46&line=F4A259&point=805B46&area=true&hide_border=true" alt="GitHub activity graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawaewanko&theme=default" alt="GitHub activity graph">
 </a>
 
 </div>
@@ -86,9 +86,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kawaewanko/kawaewanko/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kawaewanko/kawaewanko/output/github-contribution-grid-snake.svg">
-  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/kawaewanko/kawaewanko/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kawaewanko/kawaewanko/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kawaewanko/kawaewanko/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/kawaewanko/kawaewanko/gh-pages/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
