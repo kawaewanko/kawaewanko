@@ -2,69 +2,109 @@
 
 <img src="images/kawaewanko-banner.jpg" alt="kawaewanko — Small ideas, Big dreams" width="100%">
 
-# 🐾 kawaewanko
+# Mabu
 
-### Building useful things, one idea at a time.
+### Build. Learn. Make things a little better.
 
-**A little playfulness, a lot of care for the craft.**
+A developer based in Takasaki, Gunma, who loves dogs and making things.<br>
+I build useful, playful projects that are worth coming back to.
 
 [🇯🇵 日本語](README.md) · [🇺🇸 English](README.en.md)
 
 [![GitHub](https://img.shields.io/badge/GitHub-kawaewanko-805B46?style=flat-square&logo=github&logoColor=white)](https://github.com/kawaewanko)
-[![Profile Views](https://komarev.com/ghpvc/?username=kawaewanko&style=flat-square&color=F4A259&label=Profile%20views)](https://github.com/kawaewanko)
+[![Website](https://img.shields.io/badge/Website-kawaewanko.pages.dev-F4A259?style=flat-square&logo=googlechrome&logoColor=white)](https://kawaewanko.pages.dev/)
+[![X](https://img.shields.io/badge/X-@xx__mabu__xx-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/xx_mabu_xx)
+[![Location](https://img.shields.io/badge/Location-Takasaki%2C%20Gunma-F4A259?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/kawaewanko)
+[![Visitors](https://komarev.com/ghpvc/?username=kawaewanko&style=flat-square&color=F4A259&label=visitors)](https://github.com/kawaewanko)
 
 </div>
 
 ---
 
-## 🐶 About Me
+## How I build
 
-Hi, I'm **kawaewanko**!
+- 🛠️ **Learn by building** — Turn experiments into the next improvement
+- 🌱 **Start small** — Grow ideas into things people can actually use
+- 🐾 **Care and play** — Take the craft seriously while leaving room for fun
 
-I'm a developer who loves dogs and making things. I enjoy using what I learn to build useful, delightful projects. I'm still growing, and I'm excited to keep learning, experimenting, and sharing the journey.
+## Links
 
-- 🛠️ **Learn by building:** I experiment and turn lessons into improvements.
-- 🌱 **Make steady progress:** Small, consistent steps add up.
-- 🐾 **Care about the craft:** I take the details seriously while keeping room for fun.
+🌐 [Website](https://kawaewanko.pages.dev/) · 𝕏 [@xx_mabu_xx](https://x.com/xx_mabu_xx)
 
-## 🎯 What I'm Working Toward
+## Featured projects
 
-- Building useful web apps and tools
-- Sharing what I learn and the decisions behind my projects
-- Making everyday life with dogs a little more delightful
+These are provisional selections from my currently public repositories. I'll update this section as the projects take shape.
 
-## 🧰 Tools & Technologies
+| Project | Description | Language |
+|:--|:--|:--|
+| [mogkoe](https://github.com/kawaewanko/mogkoe) | Project in progress | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [discord-voicevox-yomiage](https://github.com/kawaewanko/discord-voicevox-yomiage) | Project in progress | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [nextjs-portfolio](https://github.com/kawaewanko/nextjs-portfolio) | Portfolio | ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white) |
 
-I'll add technologies here as they become part of my actual projects. I'd rather highlight what I use and learn through building than list tools just for decoration.
+## Technologies & tools
 
-<!-- Add a badge when you've used a technology in a real project.
-Example: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
--->
+A mix of technologies I use today and want to keep exploring.
 
-## 📊 GitHub
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## GitHub activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kawaewanko&theme=default&hide_border=true&ring=F4A259&fire=F4A259&currStreakLabel=805B46)](https://github.com/kawaewanko)
+<a href="https://github.com/kawaewanko">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kawaewanko&show_icons=true&hide_border=true&title_color=805B46&icon_color=F4A259&text_color=805B46&bg_color=ffffff" alt="kawaewanko's GitHub stats">
+</a>
+<a href="https://github.com/kawaewanko">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaewanko&layout=compact&hide_border=true&title_color=805B46&icon_color=F4A259&text_color=805B46&bg_color=ffffff" alt="Top languages">
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaewanko&layout=compact&hide_border=true&title_color=805B46&icon_color=F4A259)](https://github.com/kawaewanko)
+<br>
+
+<a href="https://github.com/kawaewanko">
+  <img src="https://streak-stats.demolab.com?user=kawaewanko&theme=default&hide_border=true&ring=F4A259&fire=F4A259&currStreakLabel=805B46" alt="GitHub streak">
+</a>
+
+<br><br>
+
+<a href="https://github.com/kawaewanko">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kawaewanko&bg_color=ffffff&color=805B46&line=F4A259&point=805B46&area=true&hide_border=true" alt="GitHub activity graph">
+</a>
 
 </div>
 
-<sub>Stats are generated by external services and will change as public repositories and activity grow.</sub>
+<sub>These cards are generated by external services and change with public repositories and activity.</sub>
 
-## 🌱 A New Chapter
+## Contribution animation
 
-I previously worked under [@inumabu](https://github.com/inumabu). This isn't about becoming a different person; it's about refreshing my profile and setting a new direction as the same developer.
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kawaewanko/kawaewanko/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kawaewanko/kawaewanko/output/github-contribution-grid-snake.svg">
+  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/kawaewanko/kawaewanko/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+## What's next
+
+I previously worked under [@inumabu](https://github.com/inumabu). I'm building on that experience and starting a new chapter here—one small, thoughtful project at a time.
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by!**
+**Thanks for stopping by.**
 
-Built with curiosity, care, and a little 🐾.
+Built with curiosity, care, and a little playfulness. 🐾
 
-[🇯🇵 日本語で読む](README.md) · [⬆ Back to top](#-kawaewanko)
+[🇯🇵 日本語で読む](README.md) · [⬆ Back to top](#mabu)
 
 </div>
