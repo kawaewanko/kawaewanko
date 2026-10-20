@@ -15,7 +15,7 @@ I build useful, playful projects that are worth coming back to.
 [![Website](https://img.shields.io/badge/Website-kawaewanko.pages.dev-F4A259?style=flat-square&logo=googlechrome&logoColor=white)](https://kawaewanko.pages.dev/)
 [![X](https://img.shields.io/badge/X-@xx__mabu__xx-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/xx_mabu_xx)
 [![Location](https://img.shields.io/badge/Location-Takasaki%2C%20Gunma-F4A259?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/kawaewanko)
-[![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=kawaewanko&repo=kawaewanko )](https://github.com/kawaewanko/kawaewanko )
+[![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=kawaewanko&repo=kawaewanko&style=flat-square )](https://github.com/kawaewanko/kawaewanko )
 [![Followers](https://img.shields.io/github/followers/kawaewanko?style=flat-square&label=Followers )](https://github.com/kawaewanko )
 [![Last update](https://img.shields.io/github/last-commit/kawaewanko/kawaewanko?style=flat-square&label=Last%20update )](https://github.com/kawaewanko/kawaewanko )
 
